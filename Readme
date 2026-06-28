@@ -1,0 +1,25 @@
+# 📝 React To-Do App
+
+A simple and responsive To-Do List application built using React, HTML, CSS, and JavaScript. This app helps users manage their daily tasks efficiently by allowing them to add, edit, delete, and mark tasks as completed.
+
+## Features
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- ✔️ Mark tasks as completed
+- 📱 Responsive design
+- ⚡ Fast and user-friendly interface
+
+## Technologies Used
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+## Learning Outcomes
+- React Components
+- useState Hook
+- Event Handling
+- Conditional Rendering
+- Array Methods (map, filter)
+- State Management
